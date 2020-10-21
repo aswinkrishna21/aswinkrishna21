@@ -11,9 +11,9 @@
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dontsnatchme21&layout=compact" alt="aswinkrishna21 stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkrishna21&layout=compact" alt="aswinkrishna21 stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dontsnatchme21&show_icons=true&theme=radical" alt="aswinkrishna21" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinkrishna21&show_icons=true&theme=radical" alt="aswinkrishna21" /></p> 
 
 <p align="center">
 <a href="https://linkedin.com/in/aswin-krishna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-krishna" height="30" width="30" /></a>
