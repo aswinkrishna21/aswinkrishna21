@@ -6,7 +6,7 @@
 - 🌱 I'm a pre-final year Undergraduate student at the Indian Institute of Technology (IIT), Guwahati. 
 - 🤔 Always (read, mostly) thinking about Computers and Natural Language.
 - Keen Research Interest in Deep Learning and Natural Language Processing.
-- Currently pursuing a research internship under a professor at UNSW Sydney.
+- Currently pursuing a research internship at UNSW Sydney.
 - 📫 You can find me on [Twitter](https://twitter.com/krishnaswin21) or on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
 - When i'm not playing around with language, i'm mostly twittering around or gaming.
 
