@@ -5,7 +5,10 @@
 
 - 🌱 I'm a pre-final year Undergraduate student at the Indian Institute of Technology (IIT), Guwahati. 
 - 🤔 Always (read, mostly) thinking about Computers and Natural Language.
+- Keen Research Interest in Deep Learning and Natural Language Processing.
+- Currently pursuing a research internship under a professor at UNSW Sydney.
 - 📫 You can find me on [Twitter](https://twitter.com/krishnaswin21) or on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
+- When i'm not playing around with language, i'm mostly twittering around or gaming.
 
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </p>
