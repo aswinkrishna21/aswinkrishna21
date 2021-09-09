@@ -3,10 +3,10 @@
 <h1 align = "center">Hi, I'm Aswin Krishna</h1>
 <h3 align = "center">A Deep Learning/NLP Enthusiast and an occasional gamer.</h3>
 
-- 🌱 I'm a pre-final year Undergraduate student at the Indian Institute of Technology (IIT), Guwahati. 
+- 🌱 I'm a Final year Undergraduate student at the Indian Institute of Technology (IIT), Guwahati. 
 - 🤔 Always (read, mostly) thinking about Computers and Natural Language.
 - Keen Research Interest in Deep Learning and Natural Language Processing.
-- Currently pursuing a research internship at UNSW Sydney.
+- Pursued a research internship at UNSW Sydney.
 - 📫 You can find me on [Twitter](https://twitter.com/krishnaswin21) or on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
 - When i'm not playing around with language, i'm mostly twittering around or gaming.
 
