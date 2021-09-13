@@ -7,7 +7,7 @@
 - 🤔 Always (read, mostly) thinking about Computers and Natural Language.
 - Keen Research Interest in Deep Learning and Natural Language Processing.
 - Pursued a research internship at UNSW Sydney.
-- 📫 You can find me on [Twitter](https://twitter.com/krishnaswin21) or on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
 - When i'm not playing around with language, i'm mostly twittering around or gaming.
 
 
