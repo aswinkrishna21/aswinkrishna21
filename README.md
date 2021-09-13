@@ -11,8 +11,6 @@
 - When i'm not playing around with language, i'm mostly twittering around or gaming.
 
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkrishna21&layout=compact" alt="aswinkrishna21 stats" /></p>
 
