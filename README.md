@@ -1,14 +1,13 @@
 ### Hello there 👋
 
 <h1 align = "center">Hi, I'm Aswin Krishna</h1>
-<h3 align = "center">A Deep Learning/NLP Enthusiast and an occasional gamer.</h3>
 
-- 🌱 I'm a B.Tech Graduate from the Indian Institute of Technology (IIT), Guwahati. 
+- 🌱 I am currently pursuing my Masters in Artificial Intelligence from the University of Amsterdam. Previously, I pursued my Bachelors from the Indian Institute of Technology Guwahati (IITG).
 - 🤔 Always (read, mostly) thinking about Computers, Mathematics and Technology.
 - Keen Research Interest in Deep Learning and Natural Language Processing.
 - Pursued a research internship at UNSW Sydney and Polytechnique Montreal.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/aswin-krishna/)
-- When i'm not playing around with language, i'm mostly gaming or buffing up myself with random trivia.
+- When i'm not playing around with data, i'm mostly gaming or buffing up myself with random trivia.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkrishna21&layout=compact" alt="aswinkrishna21 stats" /></p>
